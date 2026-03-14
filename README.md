@@ -94,6 +94,7 @@ This \(a\) is for **950nm wavelength**.
 
 ## TABULATION
 
+
 ### Propagation Loss
 | Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
 |--------------|----------------------|-----------------------|
